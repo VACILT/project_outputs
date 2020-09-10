@@ -8,6 +8,7 @@
 
 ## Publications
 - **[On the intermittency of orographic gravity wave hotspots and its importance for middle atmosphere dynamics](https://github.com/kuchaale/wcd_2020)** by [Kuchar](https://github.com/kuchaale) et al.
+- **[The response of mesospheric H2O and CO to solar irradiance variability in the models and observations](https://acp.copernicus.org/preprints/acp-2020-793/)** by Karagodin-Doyennel et al.
 
 ## Others
 ### Coding
