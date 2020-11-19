@@ -9,6 +9,7 @@
 ## Publications
 - **[On the intermittency of orographic gravity wave hotspots and its importance for middle atmosphere dynamics](https://github.com/kuchaale/wcd_2020)** by [Kuchar](https://github.com/kuchaale) et al.
 - **[The response of mesospheric H2O and CO to solar irradiance variability in the models and observations](https://acp.copernicus.org/preprints/acp-2020-793/)** by Karagodin-Doyennel et al.
+- **[Mutual Interference of Local Gravity Wave Forcings in the Stratosphere](https://www.mdpi.com/2073-4433/11/11/1249)** by Samtleben et al.
 
 ## Others
 ### Coding
