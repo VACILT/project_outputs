@@ -2,7 +2,7 @@
 
 ## Theses
 ### Bachelor
-- **[Einfluss von El Niño-Southern Oscillation auf die mittlere Atmosphäre](https://github.com/VACILT/project_outputs/blob/master/theses/Bachelorarbeit_Stober.pdf)** by Melanie Stober
+- **[Einfluss von El Niño-Southern Oscillation auf die mittlere Atmosphäre](https://github.com/VACILT/project_outputs/blob/master/theses/Bachelorarbeit_Stober.pdf)** by [Melanie Stober](https://github.com/Melanie-99)
 
 ### Master
 
