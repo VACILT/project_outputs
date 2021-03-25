@@ -21,5 +21,5 @@
 ### Seminar projects
 - **[Long-term trends in mesospheric winds and gravity waves extracted from meteor radar measurements and GAIA simulations](https://github.com/VACILT/trends_project)** by [Jason Mueller](https://github.com/jason-mueller)
 - **[Meteorological conditions during SSW events](https://github.com/VACILT/SSW_project)** by [Benedikt Gast](https://github.com/gast-ben)
-- **[Latent-heating impact on tides in MUAM]()** by [Richard Engelhardt](https://github.com/rumskorf)
+- **[Latent-heating impact on tides in MUAM](https://github.com/VACILT/Latent_heating_MUAM)** by [Richard Engelhardt](https://github.com/rumskorf)
 - **[The 2020 Siberian heatwave in connection to the middle atmosphere in MUAM](https://github.com/VACILT/siberian_heat_wave)** by [Anton Kotsche](https://github.com/AtombertOetschek)
