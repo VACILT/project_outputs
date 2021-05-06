@@ -12,6 +12,7 @@
 - **[Mutual Interference of Local Gravity Wave Forcings in the Stratosphere](https://www.mdpi.com/2073-4433/11/11/1249)** by Samtleben et al.
 - **[Multi-year changes in the mesoscale waves according to the data of drift and radio-meteor measurements at Collm, Germany](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11560/115607X/Multi-year-changes-in-the-mesoscale-waves-according-to-the/10.1117/12.2574804.short)** by Gavrilov and [Jacobi](https://github.com/christophjacobi)
 - **[Interhemispheric differences of mesosphere/lower thermosphere winds and tides investigated from three whole atmosphere models and meteor radar observations](https://acp.copernicus.org/preprints/acp-2021-142/)** by [Stober](https://github.com/Gunter-cmd) et al.
+- **[Stratospheric contraction caused by increasing greenhouse gases](https://iopscience.iop.org/article/10.1088/1748-9326/abfe2b)** by Pisoft et al.
 
 ## Others
 ### Coding
