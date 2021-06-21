@@ -13,6 +13,7 @@
 - **[Multi-year changes in the mesoscale waves according to the data of drift and radio-meteor measurements at Collm, Germany](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11560/115607X/Multi-year-changes-in-the-mesoscale-waves-according-to-the/10.1117/12.2574804.short)** by Gavrilov and [Jacobi](https://github.com/christophjacobi)
 - **[Interhemispheric differences of mesosphere/lower thermosphere winds and tides investigated from three whole atmosphere models and meteor radar observations](https://acp.copernicus.org/preprints/acp-2021-142/)** by [Stober](https://github.com/Gunter-cmd) et al.
 - **[Stratospheric contraction caused by increasing greenhouse gases](https://iopscience.iop.org/article/10.1088/1748-9326/abfe2b)** by Pisoft et al.
+- **[Diverse dynamical response to orographic gravity wave drag hotspots — a zonal mean perspective](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093305)** by Sacha et al.
 
 ## Others
 ### Coding
