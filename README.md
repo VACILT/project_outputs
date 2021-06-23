@@ -19,6 +19,7 @@
 ### Coding
 - **[Adaptive Spectral Filtering](https://github.com/VACILT/ASF_code)** by [Gunter Stober](https://github.com/Gunter-cmd)
 - **[Student visualization project exploring N-dimensional meteorological data in an interactive way](https://github.com/VACILT/student_project)** by [Willy Stöckel](https://github.com/stoeckel4code)
+- **[Middle-atmosphere data processing and visualization](https://github.com/VACILT/MA_visualization)**  by [Willy Stöckel](https://github.com/stoeckel4code)
 
 ### Seminar projects
 - **[Long-term trends in mesospheric winds and gravity waves extracted from meteor radar measurements and GAIA simulations](https://github.com/VACILT/trends_project)** by [Jason Mueller](https://github.com/jason-mueller)
