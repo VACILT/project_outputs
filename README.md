@@ -26,3 +26,4 @@
 - **[Meteorological conditions during SSW events](https://github.com/VACILT/SSW_project)** by [Benedikt Gast](https://github.com/gast-ben)
 - **[Latent-heating impact on tides in MUAM](https://github.com/VACILT/Latent_heating_MUAM)** by [Richard Engelhardt](https://github.com/rumskorf)
 - **[The 2020 Siberian heatwave in connection to the middle atmosphere in MUAM](https://github.com/VACILT/siberian_heat_wave)** by [Anton Kotsche](https://github.com/AtombertOetschek)
+- **[High-/Midlatitude Interaction in Arctic Amplfication](https://github.com/VACILT/project_outputs/blob/master/seminars/metSem-Valentin_Heckmann.pdf)** by Valentin Heckmann
