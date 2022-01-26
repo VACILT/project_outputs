@@ -27,3 +27,5 @@
 - **[Latent-heating impact on tides in MUAM](https://github.com/VACILT/Latent_heating_MUAM)** by [Richard Engelhardt](https://github.com/rumskorf)
 - **[The 2020 Siberian heatwave in connection to the middle atmosphere in MUAM](https://github.com/VACILT/siberian_heat_wave)** by [Anton Kotsche](https://github.com/AtombertOetschek)
 - **[High-/Midlatitude Interaction in Arctic Amplfication](https://github.com/VACILT/project_outputs/blob/master/seminars/metSem-Valentin_Heckmann.pdf)** by Valentin Heckmann
+- **[Climate change of sudden stratospheric warmings](https://github.com/VACILT/project_outputs/blob/master/seminars/Climate%20Change%20of%20Sudden%20Stratospheric%20Warmings.pdf)** by Maurice Öhlert
+- **[Polar Vortex and the sudden stratospheric warming 2020/21](https://github.com/VACILT/PV_characteristics_ICON-NWP)** by [Michel Michalkow](https://github.com/Salphalor)
