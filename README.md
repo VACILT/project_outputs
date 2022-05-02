@@ -6,6 +6,26 @@
 
 ### Master
 
+## Conferences
+### DACH202 in Leipzig
+- B. Gast et al. **[Superposed epoch analysis of coupling mechanisms captured by
+meteor radars during sudden stratospheric warmings](https://meetingorganizer.copernicus.org/DACH2022/DACH2022-84.html)**
+- K. Kharami et al. **[Sensitivity of the middle and upper atmospheric dynamics to the modification of the gravity wave drag parameterization in ICON model](https://meetingorganizer.copernicus.org/DACH2022/DACH2022-91.html)**
+- A. Kuchar et al. **[Long-term changes in mesospheric wind and wave estimates
+based on radar observations in both hemispheres](https://meetingorganizer.copernicus.org/DACH2022/DACH2022-81.html)**
+- Z. Prochazkova et al. **[Internal gravity wave detection in high-resolution model data](https://meetingorganizer.copernicus.org/DACH2022/DACH2022-90.html)**
+- G. Stober et al. **[Multistatic meteor radar observations to assess the spatial variability of mesospheric/lower thermospheric winds using a 3DVAR+div tomographic retrieval to measure spatially resolved 3D winds](https://meetingorganizer.copernicus.org/DACH2022/DACH2022-96.html)**
+
+
+### SPARC GW Symposium in Frankfurt
+- K. Karami et al. **Assessing the impact of gravity waves on the stratospheric polar vortex by means of ICON model simulations**
+- A. Kuchar et al. **On the impact of the Himalayas on the polar vortex morphology**
+- Z. Prochazkova et al. **Internal gravity wave detection in high-resolution model data**
+- P. Sacha et al. **Interaction between parameterized orographic gravity wave drag and resolved dynamics in chemistry-climate models**
+- G. Stober et al. **Assessing the spatial variability of mesosphere/lower thermospheric horizontal and vertical winds from multi-static meteor radar networks applying tomographic retrievals with a 3DVAR+div algorithm**
+
+
+
 ## Publications
 - **[Multi-year changes in the mesoscale waves according to the data of drift and radio-meteor measurements at Collm, Germany](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11560/115607X/Multi-year-changes-in-the-mesoscale-waves-according-to-the/10.1117/12.2574804.short)** by Gavrilov and [Jacobi](https://github.com/christophjacobi)
 - **[Mutual Interference of Local Gravity Wave Forcings in the Stratosphere](https://www.mdpi.com/2073-4433/11/11/1249)** by Samtleben et al.
@@ -14,6 +34,7 @@
 - **[Stratospheric contraction caused by increasing greenhouse gases](https://iopscience.iop.org/article/10.1088/1748-9326/abfe2b)** by Pisoft et al.
 - **[Diverse dynamical response to orographic gravity wave drag hotspots — a zonal mean perspective](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093305)** by Sacha et al.
 - **[Interhemispheric differences of mesosphere/lower thermosphere winds and tides investigated from three whole atmosphere models and meteor radar observations](https://acp.copernicus.org/preprints/acp-2021-142/)** by [Stober](https://github.com/Gunter-cmd) et al.
+- **[Meteor Radar vertical wind observation biases and mathematical debiasing strategies including a 3DVAR+DIV algorithm](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-203/)** by [Stober](https://github.com/Gunter-cmd) et al.
 
 ## Others
 ### Coding
