@@ -9,7 +9,7 @@
 ## Conferences
 
 ### 11th International Workshop on Long-Term Changes and Trends in the Atmosphere (in Helsinki)
-- A. Kuchar - **[Long-term changes in mesospheric dynamics in both hemispheres (invited)](https://trends2020.fmi.fi/program.html)**
+- A. Kuchar et al. **[Long-term changes in mesospheric dynamics in both hemispheres (invited)](https://trends2020.fmi.fi/program.html)**
 
 ### DACH202 in Leipzig
 - B. Gast et al. **[Superposed epoch analysis of coupling mechanisms captured by
