@@ -9,13 +9,13 @@
 
 ## Conferences
 
-### 11th International Workshop on Long-Term Changes and Trends in the Atmosphere (in Helsinki)
+### 11th International Workshop on Long-Term Changes and Trends in the Atmosphere in Helsinki
 - A. Kuchar et al. **[Long-term changes in mesospheric dynamics in both hemispheres (invited)](https://trends2020.fmi.fi/program.html)**
 
-### 8th International HEPPA-SOLARIS Meeting
+### 8th International HEPPA-SOLARIS Meeting in Bergen
 - A. Kuchar et al. **[Attribution of solar activity in the stratosphere and above (invited)](https://heppasolaris2020.w.uib.no/scientific-program/)**
 
-### DACH202 in Leipzig
+### DACH2022 in Leipzig
 - B. Gast et al. **[Superposed epoch analysis of coupling mechanisms captured by
 meteor radars during sudden stratospheric warmings](https://meetingorganizer.copernicus.org/DACH2022/DACH2022-84.html)**
 - K. Kharami et al. **[Sensitivity of the middle and upper atmospheric dynamics to the modification of the gravity wave drag parameterization in ICON model](https://meetingorganizer.copernicus.org/DACH2022/DACH2022-91.html)**
@@ -43,6 +43,7 @@ based on radar observations in both hemispheres](https://meetingorganizer.copern
 - **[Diverse dynamical response to orographic gravity wave drag hotspots — a zonal mean perspective](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093305)** by Sacha et al.
 - **[Interhemispheric differences of mesosphere/lower thermosphere winds and tides investigated from three whole atmosphere models and meteor radar observations](https://acp.copernicus.org/preprints/acp-2021-142/)** by [Stober](https://github.com/Gunter-cmd) et al.
 - **[Meteor Radar vertical wind observation biases and mathematical debiasing strategies including a 3DVAR+DIV algorithm](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-203/)** by [Stober](https://github.com/Gunter-cmd) et al.
+- **[On the impact of Himalaya-induced gravity waves on the polar vortex, Rossby wave activity and ozone](https://github.com/kuchaale/Himalayas_impact_polar-vortex)** by [Kuchar](https://github.com/kuchaale/) et al.
 
 ## Others
 ### Coding
