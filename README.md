@@ -13,7 +13,7 @@
 - A. Kuchar et al. **[Long-term changes in mesospheric dynamics in both hemispheres (invited)](https://trends2020.fmi.fi/program.html)**
 
 ### 8th International HEPPA-SOLARIS Meeting
-- - A. Kuchar et al. **[Attribution of solar activity in the stratosphere and above (invited)](https://heppasolaris2020.w.uib.no/scientific-program/)**
+- A. Kuchar et al. **[Attribution of solar activity in the stratosphere and above (invited)](https://heppasolaris2020.w.uib.no/scientific-program/)**
 
 ### DACH202 in Leipzig
 - B. Gast et al. **[Superposed epoch analysis of coupling mechanisms captured by
