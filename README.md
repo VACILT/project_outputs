@@ -3,6 +3,7 @@
 ## Theses
 ### Bachelor
 - **[Einfluss von El Niño-Southern Oscillation auf die mittlere Atmosphäre](https://github.com/VACILT/project_outputs/blob/master/theses/Bachelorarbeit_Stober.pdf)** by [Melanie Stober](https://github.com/Melanie-99)
+- **[On the reliability of large ensembles simulating stratospheric polar vortex]()** by Maurice Öhlert
 
 ### Master
 
@@ -10,6 +11,9 @@
 
 ### 11th International Workshop on Long-Term Changes and Trends in the Atmosphere (in Helsinki)
 - A. Kuchar et al. **[Long-term changes in mesospheric dynamics in both hemispheres (invited)](https://trends2020.fmi.fi/program.html)**
+
+### 8th International HEPPA-SOLARIS Meeting
+- - A. Kuchar et al. **[Attribution of solar activity in the stratosphere and above (invited)](https://heppasolaris2020.w.uib.no/scientific-program/)**
 
 ### DACH202 in Leipzig
 - B. Gast et al. **[Superposed epoch analysis of coupling mechanisms captured by
