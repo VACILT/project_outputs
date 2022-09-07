@@ -9,6 +9,9 @@
 
 ## Conferences
 
+###  URSI Germany Kleinheubach meeting
+- Ch. Jacobi et al. **[Long-term changes of midlatitude horizontal mesosphere/lower thermosphere winds over four decades](https://www.kh2022.de//programm.html)
+
 ### 11th International Workshop on Long-Term Changes and Trends in the Atmosphere in Helsinki
 - A. Kuchar et al. **[Long-term changes in mesospheric dynamics in both hemispheres (invited)](https://trends2020.fmi.fi/program.html)**
 
