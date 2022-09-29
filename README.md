@@ -45,6 +45,7 @@ based on radar observations in both hemispheres](https://meetingorganizer.copern
 - **[Stratospheric contraction caused by increasing greenhouse gases](https://iopscience.iop.org/article/10.1088/1748-9326/abfe2b)** by Pisoft et al.
 - **[Diverse dynamical response to orographic gravity wave drag hotspots — a zonal mean perspective](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093305)** by Sacha et al.
 - **[Interhemispheric differences of mesosphere/lower thermosphere winds and tides investigated from three whole atmosphere models and meteor radar observations](https://acp.copernicus.org/preprints/acp-2021-142/)** by [Stober](https://github.com/Gunter-cmd) et al.
+- **[Long-term studies of mesosphere and lower-thermosphere summer length definitions based on mean zonal wind features observed for more than one solar cycle at middle and high latitudes in the Northern Hemisphere](https://angeo.copernicus.org/articles/40/23/2022/)** by [Jaen](https://orcid.org/0000-0003-0171-9036) et al.
 - **[Meteor Radar vertical wind observation biases and mathematical debiasing strategies including a 3DVAR+DIV algorithm](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-203/)** by [Stober](https://github.com/Gunter-cmd) et al.
 - **[On the impact of Himalaya-induced gravity waves on the polar vortex, Rossby wave activity and ozone](https://github.com/kuchaale/Himalayas_impact_polar-vortex)** by [Kuchar](https://github.com/kuchaale/) et al.
 
