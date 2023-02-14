@@ -48,7 +48,7 @@ based on radar observations in both hemispheres](https://meetingorganizer.copern
 - **[Long-term studies of mesosphere and lower-thermosphere summer length definitions based on mean zonal wind features observed for more than one solar cycle at middle and high latitudes in the Northern Hemisphere](https://angeo.copernicus.org/articles/40/23/2022/)** by [Jaen](https://orcid.org/0000-0003-0171-9036) et al.
 - **[Meteor Radar vertical wind observation biases and mathematical debiasing strategies including a 3DVAR+DIV algorithm](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-203/)** by [Stober](https://github.com/Gunter-cmd) et al.
 - **[On the impact of Himalaya-induced gravity waves on the polar vortex, Rossby wave activity and ozone](https://github.com/kuchaale/Himalayas_impact_polar-vortex)** by [Kuchar](https://github.com/kuchaale/) et al. (in review for ACP)
-- **Stratospheric Ozone Changes damp the CO2-induced Acceleration of the Brewer-Dobson Circulation** by Hufnagl et al. (in review for JoC)
+- [Stratospheric Ozone Changes damp the CO2-induced Acceleration of the Brewer-Dobson Circulation](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0512.1/JCLI-D-22-0512.1.xml) by Hufnagl et al.
 
 ## Others
 ### Coding
