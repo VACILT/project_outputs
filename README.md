@@ -49,6 +49,7 @@ based on radar observations in both hemispheres](https://meetingorganizer.copern
 - **[Meteor Radar vertical wind observation biases and mathematical debiasing strategies including a 3DVAR+DIV algorithm](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-203/)** by [Stober](https://github.com/Gunter-cmd) et al.
 - **[On the impact of Himalaya-induced gravity waves on the polar vortex, Rossby wave activity and ozone](https://github.com/kuchaale/Himalayas_impact_polar-vortex)** by [Kuchar](https://github.com/kuchaale/) et al. (in review for ACP)
 - [Stratospheric Ozone Changes damp the CO2-induced Acceleration of the Brewer-Dobson Circulation](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0512.1/JCLI-D-22-0512.1.xml) by Hufnagl et al.
+- [The Climatology of Elevated Stratopause Events in the UA-ICON Model and the Contribution of Gravity Waves](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JD037907) by Karami et al.
 
 ## Others
 ### Coding
